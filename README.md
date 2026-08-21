@@ -4,7 +4,7 @@ A full-stack fintech-style expense tracker: React 19 + Tailwind on the frontend,
 Express + MongoDB on the backend, JWT auth with refresh tokens, budgets, goals,
 analytics, and rule-based "AI" spending insights generated from your own data.
 
-This is **Phase 1** of the build: core auth, transactions, budgets, goals, analytics,
+This is **Phase 1**  of the build: core auth, transactions, budgets, goals, analytics,
 insights, profile/settings, and an admin dashboard. Receipt scanning/OCR, PWA support,
 and PDF/Excel report export are left as extension points (CSV export is included).
 
