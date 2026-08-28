@@ -9,7 +9,7 @@ insights, profile/settings, and an admin dashboard. Receipt scanning/OCR, PWA su
 and PDF/Excel report export are left as extension points (CSV export is included).
 
 ## Project structure
-
+ 
 ```
 expense-tracker/
 ├── backend/          Express API + MongoDB (Mongoose)
