@@ -1,6 +1,6 @@
 # Finly — Smart Expense Tracker
 
-A full-stack fintech-style expense tracker: React 19 + Tailwind on the frontend,
+A full-stack fintech-style expense tracker: React 19 + Tailwind on the frontend
 Express + MongoDB on the backend, JWT auth with refresh tokens, budgets, goals,
 analytics, and rule-based "AI" spending insights generated from your own data.
 
